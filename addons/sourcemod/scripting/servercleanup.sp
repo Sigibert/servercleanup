@@ -63,7 +63,7 @@
  * - Fixed memory leaks and optimised some code (thanks 11530!)
  *
  * 1.3.0
- * - Added daily run option, writing file to preserve last run
+ * - Added one run per day option, writing date to file to preserve day of last run
  * - Changed to newdecls
  * - smlogs_type 0 & 1: Made the StrContains case sensitive with "L" to retain other logfiles starting with l
  * ==================================================================================
