@@ -76,7 +76,7 @@
 
 #define PLUGIN_VERSION "1.3.0"
 
-#define DEBUG 1
+#define DEBUG 0
 
 const LOG = 0;
 const SML = 1;
