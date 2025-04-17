@@ -111,7 +111,7 @@ char LogFilePath[PLATFORM_MAX_PATH];
 
 public Plugin myinfo = 
 {
-	name = "Server Clean Up _Xnet CS:GO",
+	name = "Server Clean Up",
 	author = "Jamster, forked by MeroWinger",
 	description = "Cleans up logs and demo files automatically",
 	version = PLUGIN_VERSION,
